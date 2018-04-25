@@ -2,7 +2,7 @@
   "name": "swm-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/swm-test",
+  "homepage": "https://davidgilbertson.github.io/swm-test",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.2",
